@@ -1,0 +1,9 @@
+body {
+  	min-height: 100vh;
+  	min-width: 100%;
+  	overflow: hidden
+}
+
+a, a:hover, a:active, a:visited {
+	cursor: pointer
+}
